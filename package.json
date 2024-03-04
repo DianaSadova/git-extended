@@ -1,0 +1,24 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaSadova/git-extended.git"
+  },
+  "author": "Diana Sadova <dsadova060@gmail.com>",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/DianaSadova/git-extended/issues"
+  },
+  "homepage": "https://github.com/DianaSadova/git-extended#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
